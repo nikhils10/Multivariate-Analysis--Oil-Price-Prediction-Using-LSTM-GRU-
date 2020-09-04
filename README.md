@@ -29,9 +29,15 @@ Whether to Invest in the underlying Stock/Security or Not.
        
 
 ## About the Data
-For Time Series : Data was collected from Yahoo Finance (https://finance.yahoo.com/). Ticker is 'AAPL' and time period for data is from 1st-April-2012 to 31st-Dec-2019 with Daily frequency containing 2011 records in total.
+Individual Data series was collected from Investing.com site (https://www.investing.com/). Ticker is 'AAPL' and time period for data is from between 4th Jan 2000 to 10th June 2019 with Daily frequency containing 4947 records in total and 7 series in total.
+The following features -(WTI , )
 
-For Business Valuation data(10-K Fillings/Financial Reports) was available on Apple's Investor Relation Page(https://investor.apple.com/investor-relations/default.aspx)
+
+Data Dimentions :-
+
+-> 4947 Attributes
+
+-> 7 Features
 
 ## Additional File Links
 
