@@ -25,12 +25,15 @@ Whether to Invest in the underlying Stock/Security or Not.
 - **Sklearn**            
 - **Seaborn**
 - **Statsmodels**      
-- **Scipy**            
+- **Scipy** 
+- **Keras with Tensorflow Backend**
+
+
        
 
 ## About the Data
-Individual Data series was collected from Investing.com site (https://www.investing.com/). Ticker is 'AAPL' and time period for data is from between 4th Jan 2000 to 10th June 2019 with Daily frequency containing 4947 records in total and 7 series in total.
-The following features -(WTI , )
+Individual Data series was collected from Investing.com site (https://www.investing.com/) and Yahoo Finance (https://finance.yahoo.com/). Time period for data is from between 4th Jan 2000 to 10th June 2019 with Daily frequency containing 4947 records in total and 7 series in total.
+The following features -(WTI ,Gold Futures , US Dollar Index Futures, US 10 Year Bond Yield,Gold Futures, S&P 500, )-Investing.com and (Dow Jones Utility Average)-Yahoo Finance.
 
 
 Data Dimentions :-
@@ -46,4 +49,8 @@ Data Dimentions :-
 
 
 ## Credits/Resources
+-https://www.investing.com/
+-https://finance.yahoo.com/
+
+
 
