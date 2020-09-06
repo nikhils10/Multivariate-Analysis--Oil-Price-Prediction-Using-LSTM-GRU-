@@ -6,7 +6,6 @@
 
 ## Motivation
 
-
 ## Problem Type
 Forecasting Problem.
 
