@@ -5,7 +5,8 @@
 
 
 ## Motivation
-
+Earlier I had worked on a time predicion problem dealing with Apple Stock Price prediction. Where I had only a univariate series to deal with. Later when I dived into other methods for forecasting time series problems , I came across Deep Neural Network Techniques and using making use of different kind of features to improve on forecasting .
+Since I have spend quite a bit of time in Dubai , I was interesred in how oil price fluctuates and what factors effect it . This bouhgt me to this project of having 
 
 
 
