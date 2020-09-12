@@ -2,14 +2,14 @@
 
 
 ## Project Overview 
-
+We carry out Analysis between variables like WTI ,Gold Futures , US Dollar Index Futures, US 10 Year Bond Yield,Gold Futures, S&P 500,Dow Jones Utility Average. 
+We try out different outliers techniques like (1)Zscore,(2)Removing Financial Crisis Outlier(2007-2009 recession period ) and (3) Mahalanobis Distance .
+We then carry out comparision by observing forecasting differences across two models Long Term Short Memory(LSTM) and Gated Re-current Unit(GRU).
 
 ## Motivation
-Earlier I had worked on a time predicion problem dealing with Apple Stock Price prediction. Where I had only a univariate series to deal with. Later when I dived into other methods for forecasting time series problems , I came across Deep Neural Network Techniques and using making use of different kind of features to improve on forecasting .
-Since ,I have spend quite a bit of time in Dubai , I was interesred in how oil price fluctuates and what factors effect it . This bouhgt me to this project of having 
-
-
-
+Earlier I had worked on a time series predicion problem dealing with Apple Stock Price prediction. Where I had an univariate series to deal with. Later when I dived into other methods for forecasting time series problems , I came across Deep Neural Network Techniques like LSTM and GRU. Also,came across using multiple explanatory variables to account for many effects to account for economic changes,etc.
+Oil seemed interesting to me after I came across it in my economic course .
+It was a interesting project to forecast oil price and observe relationship wrt to some economic variables like Gold Futures,Interest rates and Market Indices,etc.
 
 
 ## Problem Type
