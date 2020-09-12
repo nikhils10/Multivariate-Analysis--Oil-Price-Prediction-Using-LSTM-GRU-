@@ -2,9 +2,9 @@
 
 
 ## Project Overview 
-We carry out Analysis between variables like West Texas intermediate(WTI),Gold Futures , US Dollar Index Futures, US 10 Year Bond Yield,Gold Futures, S&P 500,Dow Jones Utility Average. 
-Experiment out different outliers techniques like (1)Zscore,(2)Removing Financial Crisis Period (2007-2009 recession period) and (3) Mahalanobis Distance .
-We then carry out comparision by observing forecasting differences across two models Long Term Short Memory(LSTM) and Gated Re-current Unit(GRU).
+We carry out Analysis between variables like **West Texas intermediate(WTI),Gold Futures , US Dollar Index Futures, US 10 Year Bond Yield,Gold Futures, S&P 500,Dow Jones Utility Average**. 
+Experiment out different **outliers techniques** like (1)**Zscore**,(2)**Removing Financial Crisis** Period (2007-2009 recession period) and (3)**Mahalanobis Distance** .
+We then carry out comparision by observing **forecasting differences** across two models **Long Term Short Memory(LSTM) and Gated Re-current Unit(GRU)**.
 
 ## Motivation
 Earlier I had worked on a time series predicion problem dealing with Apple Stock Price prediction using Seasonal-ARIMA & Prophet. 
@@ -21,7 +21,7 @@ Forecasting Problem-Solved Using LSTM and GRU.
 Mean Squared Error(MSE),Mean Absolute Error(MAE), R2 Score.(Time Series)
 
 ## Actionable Insight
-Behaviour of Oil price and whether to invest it in or not.
+Understanding behaviour of Oil price and whether to invest it in or not.
 
 ## Tools & Libraries Used
 - **Python 3.6**
@@ -42,6 +42,14 @@ Behaviour of Oil price and whether to invest it in or not.
 Individual Data series was collected from Investing.com site (https://www.investing.com/) and Yahoo Finance (https://finance.yahoo.com/). 
 Time period for data ranges between 4th Jan 2000 to 10th June 2019 with Daily frequency containing 4947 records in total and 7 series in total.
 The following series -(WTI ,Gold Futures , US Dollar Index Futures, US 10 Year Bond Yield,Gold Futures, S&P 500, )-Investing.com and (Dow Jones Utility Average)-Yahoo Finance.
+
+## Initial Preprocessing 
+To work on the dataset similar to the project, the following steps were carried out .
+-> We collect individual time series within the same range for each feature.
+-> Using VlookUp from Excel we merge the series into one dataset , we do so by the dates to align it according to the target variable WTI.
+
+***Note***: We have put both individual time series and combined dataset in the data folder of this repo.
+
 
 ## Credits/Resources
 -https://www.investing.com/
