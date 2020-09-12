@@ -45,7 +45,9 @@ The following series -(WTI ,Gold Futures , US Dollar Index Futures, US 10 Year B
 
 ## Initial Preprocessing 
 To work on the dataset similar to the project, the following steps were carried out .
+
 -> We collect individual time series within the same range for each feature.
+
 -> Using VlookUp from Excel we merge the series into one dataset , we do so by the dates to align it according to the target variable WTI.
 
 ***Note***: We have put both individual time series and combined dataset in the data folder of this repo.
