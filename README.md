@@ -14,7 +14,7 @@ It was a interesting project to forecast oil price and observe relationship wrt 
 
 
 ## Problem Type
-Forecasting Problem-Solved Using LSTM and GRU.
+Time Series Forecasting Problem-Solved Using LSTM and GRU.
 
 **Result Metrics**
 
