@@ -14,11 +14,11 @@ It was a interesting project to forecast oil price and observe relationship wrt 
 
 
 ## Problem Type
-Forecasting Problem.
+Forecasting Problem-Solved Using LSTM and GRU.
 
 **Result Metrics**
 
-Mean Squared Error(MSE),Mean Absolute Percentage Error(MAPE), R2 Score.(Time Series)
+Mean Squared Error(MSE),Mean Absolute Error(MAE), R2 Score.(Time Series)
 
 ## Actionable Insight
 Behaviour of Oil price and whether to invest it in or not.
