@@ -18,7 +18,7 @@ Time Series Forecasting Problem-Solved Using LSTM and GRU.
 
 **Result Metrics**
 
-Mean Squared Error(MSE),Mean Absolute Error(MAE), R2 Score.(Time Series)
+Mean Squared Error(MSE),Mean Absolute Error(MAE), R2 Score.
 
 ## Actionable Insight
 Understanding behaviour of Oil price and whether to invest it in or not.
