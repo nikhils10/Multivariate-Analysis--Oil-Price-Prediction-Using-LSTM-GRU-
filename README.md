@@ -7,7 +7,7 @@ Experiment out different **outliers techniques** like (1)**Zscore**,(2)**Removin
 We then carry out comparision by observing **forecasting differences** across two models **Long Term Short Memory(LSTM) and Gated Re-current Unit(GRU)**.
 
 ## Motivation
-Earlier I had worked on a time series predicion problem dealing with Apple Stock Price prediction using Seasonal-ARIMA & Prophet. 
+Earlier I had worked on a time series prediction problem dealing with Apple Stock Price prediction using Seasonal-ARIMA & Prophet. 
 I had an univariate series to deal with. Later when I dived into other methods for forecasting time series problems , I came across Deep Neural Network Techniques like LSTM and GRU. Also,came across using multiple explanatory variables to account for many effects to account for economic changes,etc.
 Oil seemed interesting to me after I came across it in my economic course .
 It was a interesting project to forecast oil price and observe relationship wrt to some economic variables like Gold Futures,Interest rates and Market Indices,etc.
