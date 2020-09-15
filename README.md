@@ -50,7 +50,7 @@ To work on the dataset similar to the project, the following steps were carried 
 
 -> Using VlookUp from Excel we merge the series into one dataset , we do so by the dates to align it according to the target variable WTI.
 
-***Note***: We have put both individual time series and combined dataset in the data folder of this repo.
+***Note***: We have put both individual time series and combined dataset in the data folder of this repo..
 
 
 ## Credits/Resources
