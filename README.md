@@ -1,4 +1,6 @@
 # Multivariate Analysis-Oil Price Prediction Using LSTM & GRU
+![My Image](oil_pic_1.png)
+![My Image](oil_pic_2.png)
 
 
 ## Project Overview 
